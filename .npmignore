@@ -1,0 +1,7 @@
+.npmignore
+.eslintrc
+.travis.yml
+appveyor.yml
+package-lock.json
+/test
+/node_modules
